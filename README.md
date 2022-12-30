@@ -1,4 +1,15 @@
-# Инфа по настройке
+# Консольный клиент tor
+
+## Как использовать
+
+`tor.vbs` - запускает tor с отображением окна
+`tor-bg.vbs` - запускает tor (все окна скрыты, висит в фоне)
+параметры работы описаны в файле config\torrc.conf
+
+|протокол|порт|
+----|---|----
+|SocksPort|localhost:9050|
+|HTTPTunnelPort|9080|
 
 - <https://tech22-info.livejournal.com/53522.html>
 - <https://hackware.ru/?p=3005>
