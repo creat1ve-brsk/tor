@@ -10,7 +10,7 @@
 
 протокол|порт
 |-|-|
-SocksPort|localhost:9050
+SocksPort|9050
 HTTPTunnelPort|9080
 
 - <https://tech22-info.livejournal.com/53522.html>
