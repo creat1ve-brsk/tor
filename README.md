@@ -2,11 +2,11 @@
 
 ## Как использовать
 
-`tor.vbs` - Запускает tor с отображением окна
+[`tor.vbs`](tor.vbs) - Запускает tor с отображением окна
 
-`tor-bg.vbs` - Запускает tor (все окна скрыты, висит в фоне)
+[`tor-bg.vbs`](tor-bg.vbs) - Запускает tor (все окна скрыты, висит в фоне)
 
-Параметры работы описаны в файле `config\torrc.conf`
+Параметры работы описаны в файле [`config\torrc.conf`](config/torrc.conf)
 
 Протокол|Порт
 |-|-|
@@ -17,7 +17,7 @@ HTTPTunnelPort|9080
 
 ### Новые мосты
 
-Если по старым мостам не устанавливается соединение, новые можно запросить <a src="https://bridges.torproject.org/options">здесь</a> и добавить их в конфиг или в телеге у бота <a src="https://t.me/GetBridgesBot">@GetBridgesBot</a> командой `/bridges`
+Если по старым мостам не устанавливается соединение, новые можно запросить [здесь](https://bridges.torproject.org/options) и добавить их в конфиг или в телеге у бота [@GetBridgesBot](https://t.me/GetBridgesBot) командой `/bridges`
 
 ## Инфа по настройке
 
